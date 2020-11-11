@@ -12,6 +12,7 @@ class WelcomeVC: UIViewController {
     
     var newLogin: String?
     var newPassword: String?
+    var x = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
